@@ -1,0 +1,10 @@
+C:\Users\LEGION\source\repos\testfacereg2\testfacereg2\obj\Debug\testfacereg2.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\testfacereg2\testfacereg2\obj\Debug\testfacereg2.Form1.resources
+C:\Users\LEGION\source\repos\testfacereg2\testfacereg2\obj\Debug\testfacereg2.Properties.Resources.resources
+C:\Users\LEGION\source\repos\testfacereg2\testfacereg2\obj\Debug\testfacereg2.csproj.GenerateResource.cache
+C:\Users\LEGION\source\repos\testfacereg2\testfacereg2\obj\Debug\testfacereg2.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\testfacereg2\testfacereg2\bin\Debug\testfacereg2.exe.config
+C:\Users\LEGION\source\repos\testfacereg2\testfacereg2\bin\Debug\testfacereg2.exe
+C:\Users\LEGION\source\repos\testfacereg2\testfacereg2\bin\Debug\testfacereg2.pdb
+C:\Users\LEGION\source\repos\testfacereg2\testfacereg2\obj\Debug\testfacereg2.exe
+C:\Users\LEGION\source\repos\testfacereg2\testfacereg2\obj\Debug\testfacereg2.pdb
